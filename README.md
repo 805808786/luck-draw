@@ -1,6 +1,7 @@
 # luck-draw
 
-> A Vue.js project
+> 基于vue的小demo，阅读vue文档后的产物。不过话说回来，如此小的demo没必要大费周章的使用vue-cli搭建，直接用 <script> 引入vue.js即可。
+> 左右拖动滑块可以改变抽奖速度
 
 ## Build Setup
 
